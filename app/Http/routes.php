@@ -35,3 +35,7 @@ Route::group(['middleware' => ['web']], function () { // indicamos las rutas q t
     ]);
 
 });
+Route::get('/ajax/get-lang', function()
+{
+    return Session::get('lang');
+});

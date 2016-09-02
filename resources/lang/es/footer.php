@@ -11,5 +11,5 @@ return [
     |
     */
 
-    'p-1' => '© 2016 UlaDevs. Todos los derechos reservados | Diseño por Andrés Vega',     
+    'p-1' => '© 2016 BrushLogic. Todos los derechos reservados | Diseño por Andrés Vega',     
 ];

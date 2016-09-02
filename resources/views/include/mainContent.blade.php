@@ -11,6 +11,7 @@
 				</div>
 				 
 				<h6>{{trans('mainContent.h6-1')}}</h6>
+				<input type="hidden" id="lenguaje" value="">
 			</div> 
 			<div class="banner-text banner-info agileinfo-text">  
 				<div>

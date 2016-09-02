@@ -12,7 +12,7 @@
 							<img src="images/andres512.png" class="img-responsive" alt=""/>
 						</div>
 						<div class="col-md-8 about-right wthree">
-							<h3>{{trans('about.h3-1')}}<span> UlaDevs </span></h3>
+							<h3>{{trans('about.h3-1')}}<span> BrushLogic </span></h3>
 							<h4>{{trans('about.h4-1')}}</h4>
 							<ul class="address">
 								<li>
